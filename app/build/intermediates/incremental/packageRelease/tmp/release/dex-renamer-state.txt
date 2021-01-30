@@ -1,0 +1,4 @@
+#Sat Jan 30 14:44:24 EST 2021
+base.0=/Users/tanle/Code/Reactive-Android-Programming-rxjava/Chapter01/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

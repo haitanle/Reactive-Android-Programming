@@ -1,0 +1,327 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "appcompat-v7"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "\264\213\375^\374\024\332\223\213\240d\177\230\224\252}=\220\360\266\030\026vR\243\030\366\3636\3570>"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-annotations"
+    version: "25.1.1"
+  }
+  digests {
+    sha256: "F\314\0017\215\333\357\251\320\246\275F\273<\020\263[\006\340n7]A\243W\303v\233\245c\351\306"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-v4"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "\355L\332|u/Q\323?\233\275\377\363B+B[2=5l\321\275\311xj\244\023\311\022\345\224"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-vector-drawable"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "&\227P=>\216p\220#\256\027k\245\333\177\230\312\n\240\264\346)\n\355\313<7\031\004\200k\367"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "animated-vector-drawable"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "m\005\313c\321\366\211\000\"\017\205\305m\376\020f\251\273\031\313\016\301$|\306\217\302\2722\366\264\247"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-compat"
+    version: "25.1.1"
+  }
+  digests {
+    sha256: "\305\a-\345g\256n\367\021\367\251\005\231\3507\n\357\276\316\237M\364T\a\265\200*!qH9\331"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-media-compat"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "\215j\032[\243\331\353\032%\313\217!\2731*\306(\002\002\343\322\220\f\260\264G\320e\320\330\241%"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-core-utils"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "\247d\236\030\300AC\335\344\f!\214\\\351\2400\347\256g@\211\315{\030\306\317\216\322\242,\360\032"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-core-ui"
+    version: "25.1.1"
+  }
+  digests {
+    sha256: "\337\024\330\233 \346+\205\314U\325\341tB\305\215f\3402\301\2303$\177\264Bh\360\2562\004\266"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-fragment"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "\022\224P\v5\177R\3177y\342R\034y\365J\347\204O;\232_g\'I]\273\332\177#\023w"
+  }
+}
+library {
+  maven_library {
+    groupId: "io.reactivex.rxjava2"
+    artifactId: "rxjava"
+    version: "2.0.3"
+  }
+  digests {
+    sha256: "\323\322\371\316\vg\353\203w\334f\236\027\353\347\224\341\347U}\274\ta\234D\263\366F\333\033\312\271"
+  }
+}
+library {
+  maven_library {
+    groupId: "org.reactivestreams"
+    artifactId: "reactive-streams"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\357\206w\002\246\024\271n\266\306O\266Z\217^\024\275\374\253\274\032\340V\367\212\026C\367\267\234\240\353"
+  }
+}
+library {
+  maven_library {
+    groupId: "io.reactivex.rxjava2"
+    artifactId: "rxandroid"
+    version: "2.0.1"
+  }
+  digests {
+    sha256: "\370\033\302\262U<\347{\334\332\333\313(\347H4O\234\376WQ\033\374/H\214\273\306\327x/>"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.jakewharton"
+    artifactId: "butterknife"
+    version: "8.4.0"
+  }
+  digests {
+    sha256: "\344LAO\032\322\002\\\333\332\005\031\350\017\375Ed\322\265\336\324\343@d\234P\a\267l*T1"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.jakewharton"
+    artifactId: "butterknife-annotations"
+    version: "8.4.0"
+  }
+  digests {
+    sha256: "0\016\300@\305ta\002\207~c\205\363\271\374\b\236\220\260E\304n\347\250\322ee\244Hc\217\204"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.jakewharton.rxbinding2"
+    artifactId: "rxbinding"
+    version: "2.0.0"
+  }
+  digests {
+    sha256: "\f\327\330s\016\220\327S\226\313\b\247\250\207\f\217;L\234MB\004\300\267.#\234jb\311e\220"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.jakewharton.rxbinding2"
+    artifactId: "rxbinding-recyclerview-v7"
+    version: "2.0.0"
+  }
+  digests {
+    sha256: "\335\a\222\242\344\332\005r\275\bIJ\3322\320\274\217\r\021:\257}\002\232\336\034\250\254`\336e\270"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "recyclerview-v7"
+    version: "25.1.1"
+  }
+  digests {
+    sha256: "\343\265\031\365\237\005\351v_\334\223\270\202\206\344\247\271C\017d\266D\n\003\272\313XG\332\250\341<"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "cardview-v7"
+    version: "25.1.0"
+  }
+  digests {
+    sha256: "\315oG/\023\nu\360)\315\033|V\367!t\002=V\242\356\342\271uw\203\177\343\221i\325\337"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.github.akarnokd"
+    artifactId: "rxjava2-interop"
+    version: "0.8.1"
+  }
+  digests {
+    sha256: "\233E\213\270E\233\357\002T\v\246!,\256\230\235\307\321ZP:\213\210%\325\261`d\030\367\273\264"
+  }
+}
+library {
+  maven_library {
+    groupId: "io.reactivex"
+    artifactId: "rxjava"
+    version: "1.2.4"
+  }
+  digests {
+    sha256: "Cj-saf\210\250Q\326\335Q,y\304\003K\335&\005\\o\n\247\324\260\271\267\354\316$_"
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+  library_dep_index: 2
+  library_dep_index: 3
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+  library_dep_index: 5
+  library_dep_index: 6
+  library_dep_index: 7
+  library_dep_index: 8
+  library_dep_index: 9
+}
+library_dependencies {
+  library_index: 5
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 6
+  library_dep_index: 1
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 7
+  library_dep_index: 1
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 8
+  library_dep_index: 1
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 9
+  library_dep_index: 5
+  library_dep_index: 6
+  library_dep_index: 8
+  library_dep_index: 7
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 1
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 3
+}
+library_dependencies {
+  library_index: 10
+  library_dep_index: 11
+}
+library_dependencies {
+  library_index: 11
+}
+library_dependencies {
+  library_index: 12
+  library_dep_index: 10
+}
+library_dependencies {
+  library_index: 13
+  library_dep_index: 14
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 14
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 15
+  library_dep_index: 10
+  library_dep_index: 12
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 16
+  library_dep_index: 15
+  library_dep_index: 17
+}
+library_dependencies {
+  library_index: 17
+  library_dep_index: 1
+  library_dep_index: 5
+  library_dep_index: 8
+}
+library_dependencies {
+  library_index: 18
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 19
+  library_dep_index: 11
+  library_dep_index: 20
+  library_dep_index: 10
+}
+library_dependencies {
+  library_index: 20
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 16
+  dependency_index: 17
+  dependency_index: 18
+  dependency_index: 19
+  dependency_index: 10
+  dependency_index: 12
+  dependency_index: 13
+  dependency_index: 15
+}
