@@ -1,16 +1,22 @@
 packt/reactivestocks/MainActivity.java
  packt.reactivestocks.MainActivity
- packt.reactivestocks.MainActivity$1
- packt.reactivestocks.MainActivity$2
- packt.reactivestocks.MainActivity$3
- packt.reactivestocks.MainActivity$4
- packt.reactivestocks.MainActivity$5
- packt.reactivestocks.MainActivity$6
 packt/reactivestocks/StockUpdate.java
  packt.reactivestocks.StockUpdate
+packt/reactivestocks/yahoo/json/YahooStockQuery.java
+ packt.reactivestocks.yahoo.json.YahooStockQuery
+packt/reactivestocks/yahoo/json/YahooStockResult.java
+ packt.reactivestocks.yahoo.json.YahooStockResult
 packt/reactivestocks/BuildConfig.java
  packt.reactivestocks.BuildConfig
+packt/reactivestocks/yahoo/RetrofitYahooServiceFactory.java
+ packt.reactivestocks.yahoo.RetrofitYahooServiceFactory
+packt/reactivestocks/yahoo/json/YahooStockResults.java
+ packt.reactivestocks.yahoo.json.YahooStockResults
+packt/reactivestocks/yahoo/json/YahooStockQuote.java
+ packt.reactivestocks.yahoo.json.YahooStockQuote
 packt/reactivestocks/StockUpdateViewHolder.java
  packt.reactivestocks.StockUpdateViewHolder
+packt/reactivestocks/yahoo/YahooService.java
+ packt.reactivestocks.yahoo.YahooService
 packt/reactivestocks/StockDataAdapter.java
  packt.reactivestocks.StockDataAdapter
