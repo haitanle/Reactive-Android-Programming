@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity {
 
         YahooService yahooService = new RetrofitYahooServiceFactory().create();
 
-        String query = "select * from yahoo.finance.quote where symbol in ('YHOO','AAPL','GOOG','MSFT')";
-        String env = "store://datatables.org/alltableswithkeys";
+        String query = "tesla";
+        String env = "US";
 
         Observable.interval(0, 5, TimeUnit.SECONDS)
                 .flatMap(

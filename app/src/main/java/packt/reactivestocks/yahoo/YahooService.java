@@ -7,9 +7,9 @@ import retrofit2.http.Query;
 
 public interface YahooService {
 
-    @GET("yql?format=json")
+    @GET("auto-complete")
     Single<YahooStockResult> yqlQuery(
             @Query("q") String query,
-            @Query("env") String env
+            @Query("region") String env
     );
 }
